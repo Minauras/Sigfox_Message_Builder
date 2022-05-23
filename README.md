@@ -29,7 +29,7 @@ SMG_new_message();
 
 ## Author
 
-* **Rémi Clerc** alias [Minauras](https://github.com/Minauras)
+* **Nara Clerc** alias [Minauras](https://github.com/Minauras)
 
 ## Acknowledgments
 
